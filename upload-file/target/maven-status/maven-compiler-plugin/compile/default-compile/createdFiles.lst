@@ -1,0 +1,6 @@
+com\aco\uploadfile\exceptions\FileUploadExceptionAdvice.class
+com\aco\uploadfile\service\FilesStorageService.class
+com\aco\uploadfile\UploadFileApplication.class
+com\aco\uploadfile\service\FilesStorageServiceImpl.class
+com\aco\uploadfile\controller\FilesController.class
+com\aco\uploadfile\message\ResponseMessage.class
